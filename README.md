@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dttric
-- 👀 I'm wdolinux developer
+- 👀 I'm wdolinux developer (RIP)
 - 🌱 I'm currently learning ...
 - 💞️ I'm looking to help me
 - 📫 How to reach me: `chudinovd222@gmail.com`
