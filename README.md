@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dttric
-- 👀 I'm wdolinux developer (RIP)
-- 🌱 I'm currently learning ...
-- 💞️ I'm looking to help me
-- 📫 How to reach me: `chudinovd222@gmail.com`
+## Hi, my name is dttric.
+```
+I know C, C++, Python, JS.
+i'm beginner programmer, doing some funny (or serious) shit.
+```
 
-<!---
-dttric/dttric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My Progress:
+| - | JS | Python | C | C++ |
+|---|----|--------|---|-----|
+| Know? | Yes | Yes | Yes | Almost |
