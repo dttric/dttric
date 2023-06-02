@@ -1,6 +1,6 @@
 ## Hi, my name is dttric.
 ```
-I know C, C++, Python, Java, JS.
+I know C, C++, Python, Java, JS
 i'm beginner programmer, doing some funny (or serious) shit.
 ```
 
