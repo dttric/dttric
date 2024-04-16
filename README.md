@@ -1,4 +1,4 @@
-[![discord badge](https://badgen.net/discord/members/SVHf8vKWUU?icon=discord)](https://discord.com/SVHf8vKWUU)
+  [![discord badge](https://badgen.net/discord/members/SVHf8vKWUU?icon=discord)](https://discord.com/SVHf8vKWUU)
 
 
   <a href="https://github.com/dttric">
