@@ -6,5 +6,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dttric&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/dttric">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dttric&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default" />
   </a>
