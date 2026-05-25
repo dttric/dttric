@@ -1,5 +1,5 @@
 # dttric.лягушка.сайлент
-
+*половина вещей из этого описания написана в очень несерьезном тоне*
 Страница Дани Бурдюкова (aka я, имя вымышленное)
 
 🚀 *Заняться хуйней можно только без хуйни.*
@@ -8,12 +8,12 @@
 
 ### 🛠️ Топ проекты
 
-| Проект | Описание | Язык | Статус |
-| :--- | :--- | :--- | :--- |
-| **[dttric/hub](https://github.com/dttric/hub)** | Апофеоз статичной вебдрочки. Визитка | `html+css` | Живее всех живых |
-| **[ayarei](https://github.com/dttric/ayarei_engine)** | Попытка воссоздать DOOM на pygame с нулевым опытом программирования | `python` | Мертво. Архив |
-| **[dknhttp](https://github.com/dttric/dknhttp)** | Тестовый проект на golang. Веб-сервер (статичный) | `go` | Не развивается чисто из идеи. Архив |
-| **[electronica2](https://github.com/dttric/electronica2)** | А где? | `Что?` | 2027? |
+| Проект | Описание | Язык | Статус | Лицензия |
+| :--- | :--- | :--- | :--- | :--- |
+| **[dttric/hub](https://github.com/dttric/hub)** | Апофеоз статичной вебдрочки. Визитка | `html+css` | Живее всех живых | ![](https://flat.badgen.net/github/license/dttric/hub?label&icon=github) |
+| **[ayarei](https://github.com/dttric/ayarei_engine)** | Попытка воссоздать DOOM на pygame с нулевым опытом программирования | `python` | Мертво. Архив | ![](https://flat.badgen.net/github/license/dttric/ayarei_engine?label&icon=github) |
+| **[dknhttp](https://github.com/dttric/dknhttp)** | Тестовый проект на golang. Веб-сервер (статичный) | `go` | Не развивается чисто из идеи. Архив | ![](https://flat.badgen.net/github/license/dttric/dknhttp?label&icon=github) |
+| **[electronica2](https://github.com/dttric/electronica2)** | А где? | `Что?` | 2027? | ![](https://flat.badgen.net/static/no/meow?label&icon=github&color=black) |
 
 ---
 
