@@ -1,2 +1,33 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dttric&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dttric&theme=transparent) 
+# dttric.лягушка.сайлент
+
+Страница Дани Бурдюкова (aka я, имя вымышленное)
+
+🚀 *Заняться хуйней можно только без хуйни.*
+
+---
+
+### 🛠️ Топ проекты
+
+| Проект | Описание | Язык | Статус |
+| :--- | :--- | :--- | :--- |
+| **[dttric/hub](https://github.com/dttric/hub)** | Апофеоз статичной вебдрочки. Визитка | `html+css` | Живее всех живых |
+| **[ayarei](https://github.com/dttric/ayarei_engine)** | Попытка воссоздать DOOM на pygame с нулевым опытом программирования | `python/pygame` | Мертво. Архив |
+| **[dknhttp](https://github.com/dttric/dknhttp)** | Тестовый проект на golang. Веб-сервер (статичный) | `go` | Не развивается чисто из идеи. Архив |
+| **[electronica2](https://github.com/dttric/electronica2)** | А где? | `Что?` | 2027? |
+
+---
+
+### 🎯 Специальности
+
+*   **Боты для соцсетей:** ~7 месяцев в общем писал всякого рода ботов в основном для дискорда и телеграма.
+*   **Сайты на коленке:** Узнал про бутстрапКСС и начал ебашить как проклятый.
+*   **Написание конфигов:** Засунул чисто потому что я реально этим занимаюсь и надо занять слот
+
+---
+
+### 🤝 connect и etc
+
+*   **Сайт:** [dttric.github.io](https://dttric.github.io/hub)
+*   **Telegram:** [@dknsilent](https://t.me/dknsilent) (гитхаб все равно тоже под нож пойдет хули)
+*   **Steam:** [сайлент](https://steamcommunity.com/id/toadtg3/)
+*   **Почта:** [Старомодно но если нужно](mailto:8bayrggwi@mozmail.com)
