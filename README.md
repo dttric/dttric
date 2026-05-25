@@ -11,7 +11,7 @@
 | Проект | Описание | Язык | Статус |
 | :--- | :--- | :--- | :--- |
 | **[dttric/hub](https://github.com/dttric/hub)** | Апофеоз статичной вебдрочки. Визитка | `html+css` | Живее всех живых |
-| **[ayarei](https://github.com/dttric/ayarei_engine)** | Попытка воссоздать DOOM на pygame с нулевым опытом программирования | `python/pygame` | Мертво. Архив |
+| **[ayarei](https://github.com/dttric/ayarei_engine)** | Попытка воссоздать DOOM на pygame с нулевым опытом программирования | `python` | Мертво. Архив |
 | **[dknhttp](https://github.com/dttric/dknhttp)** | Тестовый проект на golang. Веб-сервер (статичный) | `go` | Не развивается чисто из идеи. Архив |
 | **[electronica2](https://github.com/dttric/electronica2)** | А где? | `Что?` | 2027? |
 
