@@ -2,58 +2,59 @@
   "version": 1,
   "login": "dttric",
   "seed": "#316F59",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
+    "buttons",
     "socials",
+    "stats",
+    "streak",
     "about",
     "stack",
     "projects",
-    "stats",
-    "streak",
-    "wave",
-    "buttons"
+    "wave"
   ],
-  "hidden": [],
+  "hidden": [
+    "about",
+    "stack",
+    "projects",
+    "wave"
+  ],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Привет, я",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
-    "typing": true,
+    "subtitle": "Делаю интерфейсы и небольшие полезные утилиты.",
+    "typing": false,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
-      },
-      {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "Russia, Novosibirsk"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "Обо мне",
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Разработчик и дизайнер"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "В основном фронтенд"
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Люблю Material Design"
       }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "Стек",
     "groups": [
       {
         "title": "Main",
@@ -92,59 +93,60 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "ayarei_engine",
+      "LeagueTracker",
+      "dknhttp",
+      "C5Bot"
+    ],
     "overrides": {},
-    "empty": "No description yet.",
+    "empty": "Описания пока нет.",
     "fork": "Fork"
   },
   "stats": {
-    "title": "GitHub activity",
-    "stars": "Stars earned",
-    "contributions": "Contributions this year",
-    "repos": "Public repos",
-    "followers": "Followers",
-    "calendar": "Last 21 days",
-    "weekdays": "SMTWTFS",
-    "languages": "Languages across my repositories",
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
     "showLanguages": true
   },
   "streak": {
-    "title": "Streak",
-    "current": "Current streak",
-    "longest": "Longest this year",
-    "days": "days"
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
   },
   "socials": {
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/dknsilent"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:steam",
+        "url": "https://https://steamcommunity.com/id/toadtg3/"
       }
     ],
-    "variant": "chip",
-    "fill": "tonal",
-    "card": true
+    "variant": "icon",
+    "fill": "outlined",
+    "card": false
   },
   "buttons": {
     "items": [
       {
         "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
+        "label": "Мой сайт",
+        "url": "https://dttric.dkn.su",
         "style": "filled"
       },
       {
         "icon": "book_2",
-        "label": "All repositories",
+        "label": "Все репозитории",
         "url": "",
         "style": "tonal"
       }
