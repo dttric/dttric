@@ -1,43 +1,25 @@
-# dttric.лягушка.сайлент
-*половина вещей из этого описания написана в очень несерьезном тоне* <br>
-Страница Дани Бурдюкова (aka dttric, имя вымышленное)
+<div align="center">
 
-🚀 *Заняться хуйней можно только без хуйни.*
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m dttric"></picture>
 
----
-~*Доп примечание: с мной иногда свзяываются люди по поводу запрета*~<br>
-~У [либерского](https://github.com/youtubediscord/zapret) вирусов точно нет, хотите узнать про вирусы в запрете? [Читать](https://t.me/zapretvirus)~<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-~P.S. ну и да я чутка не разраб этого запрета, хотя очень близок, meow :3~<br>
-P.P.S. угадайте кого на гитхабе забанили
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-### 🛠️ На что стоит обратить внимание?
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-| Проект | Описание | Язык | Статус | Лицензия |
-| :--- | :--- | :--- | :--- | :--- |
-| **[dttric/hub](https://github.com/dttric/hub)** | Апофеоз статичной вебдрочки. Визитка | `html+css` | Живее всех живых | ![](https://flat.badgen.net/github/license/dttric/hub?label&icon=github) |
-| **[ayarei](https://github.com/dttric/ayarei_engine)** | Попытка воссоздать DOOM на pygame с нулевым опытом программирования | `python` | Мертво. Архив | ![](https://flat.badgen.net/github/license/dttric/ayarei_engine?label&icon=github) |
-| **[dknhttp](https://github.com/dttric/dknhttp)** | Тестовый проект на golang. Веб-сервер (статичный) | `go` | Не развивается чисто из идеи. Архив | ![](https://flat.badgen.net/github/license/dttric/dknhttp?label&icon=github) |
-| **[dttric/events](https://github.com/dttric/events)** | Статичный календарь дизайн которого я либо спиздил либо мне приснилось | `html+css` | Живее всех живых | ![](https://flat.badgen.net/github/license/dttric/events?label&icon=github) |
-| **[Расписание СибУПК](https://github.com/dttric/rassupk)** | Вайбкод. Расписание моей шараги ради теста нейронки и личного удобства | `typescript` | Активно обновляется | ![](https://flat.badgen.net/github/license/dttric/rassupk?label&icon=github) |
-| **[AchievementHunter](https://github.com/dttric/achievementhunter)** | Виджет для дискорда показывающий ваши достижения, берет данные из Steam | `python` | Активно обновляется | ![](https://flat.badgen.net/github/license/dttric/achievementhunter?label&icon=github) |
-| **[LeagueTracker](https://github.com/dttric/leaguetracker)** | Виджет для дискорда показывающий ваш профиль в LoL | `python` | 50/50 | ![](https://flat.badgen.net/github/license/dttric/leaguetracker?label&icon=github) |
-| **[electronica2](https://github.com/dttric/electronica2)** | А где? | `Что?` | 2027? | ![](https://flat.badgen.net/static/no/meow?label&icon=github&color=black) |
+<a href="https://github.com/dttric/ayarei_engine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ayarei-engine-dark.svg"><img src="assets/project-ayarei-engine-light.svg" width="49%" alt="ayarei_engine"></picture></a>&nbsp;<a href="https://github.com/dttric/LeagueTracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-leaguetracker-dark.svg"><img src="assets/project-leaguetracker-light.svg" width="49%" alt="LeagueTracker"></picture></a>
 
----
+<a href="https://github.com/dttric/dknhttp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dknhttp-dark.svg"><img src="assets/project-dknhttp-light.svg" width="49%" alt="dknhttp"></picture></a>&nbsp;<a href="https://github.com/dttric/C5Bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-c5bot-dark.svg"><img src="assets/project-c5bot-light.svg" width="49%" alt="C5Bot"></picture></a>
 
-### 🎯 Специальности
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-*   **Боты для соцсетей:** ~7 месяцев в общем писал всякого рода ботов в основном для дискорда и телеграма.
-*   **Сайты на коленке:** Узнал про бутстрапКСС и начал ебашить как проклятый.
-*   **Написание конфигов:** Засунул чисто потому что я реально этим занимаюсь и надо занять слот.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-### 🤝 connect и etc
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/dttric?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-*   **Сайт:** [dttric.github.io](https://dttric.github.io/hub)
-*   **Telegram:** [@dknsilent](https://t.me/dknsilent) (гитхаб все равно тоже под нож пойдет хули)
-*   **Steam:** [сайлент](https://steamcommunity.com/id/toadtg3/)
-*   **Почта:** [Старомодно но если нужно](mailto:8bayrggwi@mozmail.com)
+<a href="https://metawka.github.io/expressive-profile/?from=dttric"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
