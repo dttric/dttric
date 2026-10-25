@@ -10,7 +10,7 @@
 
 <a href="https://github.com/dttric/ayarei_engine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ayarei-engine-dark.svg"><img src="assets/project-ayarei-engine-light.svg" width="49%" alt="ayarei_engine"></picture></a>&nbsp;<a href="https://github.com/dttric/LeagueTracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-leaguetracker-dark.svg"><img src="assets/project-leaguetracker-light.svg" width="49%" alt="LeagueTracker"></picture></a>
 
-<a href="https://github.com/dttric/dknhttp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dknhttp-dark.svg"><img src="assets/project-dknhttp-light.svg" width="49%" alt="dknhttp"></picture></a>&nbsp;<a href="https://github.com/dttric/C5Bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-c5bot-dark.svg"><img src="assets/project-c5bot-light.svg" width="49%" alt="C5Bot"></picture></a>
+<a href="https://github.com/dttric/achievementhunter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-achievementhunter-dark.svg"><img src="assets/project-achievementhunter-light.svg" width="49%" alt="achievementhunter"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

@@ -1,0 +1,494 @@
+{
+ "key": "c1ce5d56",
+ "stars": 7,
+ "contributions": 212,
+ "repos": 34,
+ "followers": 16,
+ "languages": [
+  [
+   "Python",
+   14497696
+  ],
+  [
+   "C++",
+   11683730
+  ],
+  [
+   "C",
+   9766860
+  ],
+  [
+   "HTML",
+   167713
+  ],
+  [
+   "TypeScript",
+   160560
+  ],
+  [
+   "Linker Script",
+   55320
+  ],
+  [
+   "XC",
+   53464
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "ayarei_engine",
+   "url": "https://github.com/dttric/ayarei_engine",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "3d",
+    "3d-engine",
+    "3d-game",
+    "3d-game-engine",
+    "engine",
+    "game",
+    "game-engine",
+    "game-engine-3d",
+    "pygame",
+    "pygame-example"
+   ]
+  },
+  {
+   "name": "LeagueTracker",
+   "url": "https://github.com/dttric/LeagueTracker",
+   "text": "Виджет для дискорда, показывающий профиль в Лиге Легенд",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "achievementhunter",
+   "url": "https://github.com/dttric/achievementhunter",
+   "text": "Виджет для дискорда, отслеживающий прогресс достижений в стиме",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "ayarei_engine",
+   "url": "https://github.com/dttric/ayarei_engine",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "3d",
+    "3d-engine",
+    "3d-game",
+    "3d-game-engine",
+    "engine",
+    "game",
+    "game-engine",
+    "game-engine-3d",
+    "pygame",
+    "pygame-example"
+   ]
+  },
+  {
+   "name": "LeagueTracker",
+   "url": "https://github.com/dttric/LeagueTracker",
+   "text": "Виджет для дискорда, показывающий профиль в Лиге Легенд",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "dknhttp",
+   "url": "https://github.com/dttric/dknhttp",
+   "text": "простой, статический web-сервер",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "starsmpweb",
+   "url": "https://github.com/dttric/starsmpweb",
+   "text": "блямайнкрафт",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "dwm",
+   "url": "https://github.com/dttric/dwm",
+   "text": "dwm fork by dttric",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "C5Bot",
+   "url": "https://github.com/dttric/C5Bot",
+   "text": "Многофункциональный бот созданный для C5",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "dknsu",
+   "url": "https://github.com/dttric/dknsu",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "achievementhunter",
+   "url": "https://github.com/dttric/achievementhunter",
+   "text": "Виджет для дискорда, отслеживающий прогресс достижений в стиме",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "rassupk",
+   "url": "https://github.com/dttric/rassupk",
+   "text": "нейрослопная хуйня созданная за 10 минут для личного удобства",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "events",
+   "url": "https://github.com/dttric/events",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "dttric.github.io",
+   "url": "https://github.com/dttric/dttric.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "zapret-pp",
+   "url": "https://github.com/dttric/zapret-pp",
+   "text": "Zapret (Запрет обход блокировки Дискорда и Ютуба)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "pixmap",
+   "url": "https://github.com/dttric/pixmap",
+   "text": "Official repository of PixMap.Fun | Collaborative online canvas to draw with multiple people",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ctOS",
+   "url": "https://github.com/dttric/ctOS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "gradesapi",
+   "url": "https://github.com/dttric/gradesapi",
+   "text": "grades.del.pw но это api",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "wiki",
+   "url": "https://github.com/dttric/wiki",
+   "text": "википедия меня. да.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "pwmod",
+   "url": "https://github.com/dttric/pwmod",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "AMPL",
+   "topics": []
+  },
+  {
+   "name": "colors",
+   "url": "https://github.com/dttric/colors",
+   "text": "тулбокс для работы с цветами",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "grades",
+   "url": "https://github.com/dttric/grades",
+   "text": "калькулятор школьных оценок",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "badgen-icons",
+   "url": "https://github.com/dttric/badgen-icons",
+   "text": "Icons for badgen service.",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "dkn_anonchat_bot",
+   "url": "https://github.com/dttric/dkn_anonchat_bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "space-station-14",
+   "url": "https://github.com/dttric/space-station-14",
+   "text": "🚀 Билд русскоязычного сервера Space Station 14",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "C5Web",
+   "url": "https://github.com/dttric/C5Web",
+   "text": "веб-приложение для игры на Project C5",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "jetwork",
+   "url": "https://github.com/dttric/jetwork",
+   "text": "Simple p2p network. Простая p2p сеть. ТГ: https://t.me/justuser31",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "CCRedux",
+   "url": "https://github.com/dttric/CCRedux",
+   "text": "my simple python game with using only built-in libraries",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "calculex",
+   "url": "https://github.com/dttric/calculex",
+   "text": "calculator.net remake",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": [
+    "calculator"
+   ]
+  },
+  {
+   "name": "hub",
+   "url": "https://github.com/dttric/hub",
+   "text": "это мой дом и я тут живу",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "GitHub-Dark-x-Horizontal-Server-list",
+   "url": "https://github.com/dttric/GitHub-Dark-x-Horizontal-Server-list",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "haiku",
+   "url": "https://github.com/dttric/haiku",
+   "text": "haikuOS for my personal purposes",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "test-projects",
+   "url": "https://github.com/dttric/test-projects",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dotfiles",
+   "url": "https://github.com/dttric/dotfiles",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dttric",
+   "url": "https://github.com/dttric/dttric",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "reactos",
+   "url": "https://github.com/dttric/reactos",
+   "text": "A free Windows-compatible Operating System",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "bitcoin",
+   "url": "https://github.com/dttric/bitcoin",
+   "text": "Bitcoin Core integration/staging tree",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  }
+ ]
+}
