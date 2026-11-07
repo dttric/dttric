@@ -1,5 +1,5 @@
 {
- "key": "1b4ab171",
+ "key": "dfc23090",
  "stars": 7,
  "contributions": 214,
  "repos": 34,
@@ -138,9 +138,13 @@
    {
     "c": 0,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
